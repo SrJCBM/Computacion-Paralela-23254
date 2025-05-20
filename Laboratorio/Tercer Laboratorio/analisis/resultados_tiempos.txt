@@ -1,0 +1,202 @@
+Resultados de tiempos de ejecución
+=================================
+Iteración 1
+Procesamiento secuencial Iteración 1: 63,27 ms
+Tiempo promedio de procesamiento por imagen (ms): 36,74
+---------------------------
+Iteración 2
+Procesamiento secuencial Iteración 2: 33,88 ms
+Tiempo promedio de procesamiento por imagen (ms): 36,19
+---------------------------
+Iteración 3
+Procesamiento secuencial Iteración 3: 41,38 ms
+Tiempo promedio de procesamiento por imagen (ms): 54,69
+---------------------------
+Iteración 4
+Procesamiento secuencial Iteración 4: 69,02 ms
+Tiempo promedio de procesamiento por imagen (ms): 71,68
+---------------------------
+Iteración 5
+Procesamiento secuencial Iteración 5: 71,20 ms
+Tiempo promedio de procesamiento por imagen (ms): 50,53
+---------------------------
+Iteración 6
+Procesamiento secuencial Iteración 6: 44,14 ms
+Tiempo promedio de procesamiento por imagen (ms): 53,95
+---------------------------
+Iteración 7
+Procesamiento secuencial Iteración 7: 71,04 ms
+Tiempo promedio de procesamiento por imagen (ms): 71,88
+---------------------------
+Iteración 8
+Procesamiento secuencial Iteración 8: 75,33 ms
+Tiempo promedio de procesamiento por imagen (ms): 41,13
+---------------------------
+Iteración 9
+Procesamiento secuencial Iteración 9: 38,05 ms
+Tiempo promedio de procesamiento por imagen (ms): 37,93
+---------------------------
+Iteración 10
+Procesamiento secuencial Iteración 10: 34,99 ms
+Tiempo promedio de procesamiento por imagen (ms): 58,36
+---------------------------
+Iteración 11
+Procesamiento secuencial Iteración 11: 72,02 ms
+Tiempo promedio de procesamiento por imagen (ms): 70,47
+---------------------------
+Iteración 12
+Procesamiento secuencial Iteración 12: 68,27 ms
+Tiempo promedio de procesamiento por imagen (ms): 70,91
+---------------------------
+Iteración 13
+Procesamiento secuencial Iteración 13: 74,76 ms
+Tiempo promedio de procesamiento por imagen (ms): 71,70
+---------------------------
+Iteración 14
+Procesamiento secuencial Iteración 14: 69,50 ms
+Tiempo promedio de procesamiento por imagen (ms): 71,57
+---------------------------
+Iteración 15
+Procesamiento secuencial Iteración 15: 68,91 ms
+Tiempo promedio de procesamiento por imagen (ms): 70,96
+---------------------------
+Iteración 16
+Procesamiento secuencial Iteración 16: 74,84 ms
+Tiempo promedio de procesamiento por imagen (ms): 68,67
+---------------------------
+Iteración 17
+Procesamiento secuencial Iteración 17: 28,10 ms
+Tiempo promedio de procesamiento por imagen (ms): 29,04
+---------------------------
+Iteración 18
+Procesamiento secuencial Iteración 18: 29,13 ms
+Tiempo promedio de procesamiento por imagen (ms): 28,99
+---------------------------
+Iteración 19
+Procesamiento secuencial Iteración 19: 27,73 ms
+Tiempo promedio de procesamiento por imagen (ms): 29,16
+---------------------------
+Iteración 20
+Procesamiento secuencial Iteración 20: 29,78 ms
+Tiempo promedio de procesamiento por imagen (ms): 32,40
+---------------------------
+Iteración 21
+Procesamiento secuencial Iteración 21: 39,25 ms
+Tiempo promedio de procesamiento por imagen (ms): 67,83
+---------------------------
+Iteración 22
+Procesamiento secuencial Iteración 22: 69,21 ms
+Tiempo promedio de procesamiento por imagen (ms): 70,93
+---------------------------
+Iteración 23
+Procesamiento secuencial Iteración 23: 71,53 ms
+Tiempo promedio de procesamiento por imagen (ms): 71,22
+---------------------------
+Iteración 24
+Procesamiento secuencial Iteración 24: 73,91 ms
+Tiempo promedio de procesamiento por imagen (ms): 70,77
+---------------------------
+Iteración 25
+Procesamiento secuencial Iteración 25: 72,37 ms
+Tiempo promedio de procesamiento por imagen (ms): 70,70
+---------------------------
+Iteración 26
+Procesamiento secuencial Iteración 26: 69,58 ms
+Tiempo promedio de procesamiento por imagen (ms): 71,11
+---------------------------
+Iteración 27
+Procesamiento secuencial Iteración 27: 70,88 ms
+Tiempo promedio de procesamiento por imagen (ms): 54,68
+---------------------------
+Iteración 28
+Procesamiento secuencial Iteración 28: 27,18 ms
+Tiempo promedio de procesamiento por imagen (ms): 28,99
+---------------------------
+Iteración 29
+Procesamiento secuencial Iteración 29: 29,12 ms
+Tiempo promedio de procesamiento por imagen (ms): 56,96
+---------------------------
+Iteración 30
+Procesamiento secuencial Iteración 30: 73,71 ms
+Tiempo promedio de procesamiento por imagen (ms): 71,92
+---------------------------
+Iteración 31
+Procesamiento secuencial Iteración 31: 74,34 ms
+Tiempo promedio de procesamiento por imagen (ms): 74,41
+---------------------------
+Iteración 32
+Procesamiento secuencial Iteración 32: 70,04 ms
+Tiempo promedio de procesamiento por imagen (ms): 72,78
+---------------------------
+Iteración 33
+Procesamiento secuencial Iteración 33: 69,69 ms
+Tiempo promedio de procesamiento por imagen (ms): 71,94
+---------------------------
+Iteración 34
+Procesamiento secuencial Iteración 34: 68,23 ms
+Tiempo promedio de procesamiento por imagen (ms): 70,86
+---------------------------
+Iteración 35
+Procesamiento secuencial Iteración 35: 72,90 ms
+Tiempo promedio de procesamiento por imagen (ms): 71,13
+---------------------------
+Iteración 36
+Procesamiento secuencial Iteración 36: 68,60 ms
+Tiempo promedio de procesamiento por imagen (ms): 70,98
+---------------------------
+Iteración 37
+Procesamiento secuencial Iteración 37: 77,89 ms
+Tiempo promedio de procesamiento por imagen (ms): 71,84
+---------------------------
+Iteración 38
+Procesamiento secuencial Iteración 38: 70,43 ms
+Tiempo promedio de procesamiento por imagen (ms): 71,23
+---------------------------
+Iteración 39
+Procesamiento secuencial Iteración 39: 66,97 ms
+Tiempo promedio de procesamiento por imagen (ms): 76,13
+---------------------------
+Iteración 40
+Procesamiento secuencial Iteración 40: 70,19 ms
+Tiempo promedio de procesamiento por imagen (ms): 71,20
+---------------------------
+Iteración 41
+Procesamiento secuencial Iteración 41: 68,59 ms
+Tiempo promedio de procesamiento por imagen (ms): 68,04
+---------------------------
+Iteración 42
+Procesamiento secuencial Iteración 42: 29,33 ms
+Tiempo promedio de procesamiento por imagen (ms): 29,88
+---------------------------
+Iteración 43
+Procesamiento secuencial Iteración 43: 34,35 ms
+Tiempo promedio de procesamiento por imagen (ms): 30,22
+---------------------------
+Iteración 44
+Procesamiento secuencial Iteración 44: 27,95 ms
+Tiempo promedio de procesamiento por imagen (ms): 29,61
+---------------------------
+Iteración 45
+Procesamiento secuencial Iteración 45: 28,65 ms
+Tiempo promedio de procesamiento por imagen (ms): 29,88
+---------------------------
+Iteración 46
+Procesamiento secuencial Iteración 46: 27,18 ms
+Tiempo promedio de procesamiento por imagen (ms): 30,34
+---------------------------
+Iteración 47
+Procesamiento secuencial Iteración 47: 27,91 ms
+Tiempo promedio de procesamiento por imagen (ms): 29,06
+---------------------------
+Iteración 48
+Procesamiento secuencial Iteración 48: 28,16 ms
+Tiempo promedio de procesamiento por imagen (ms): 29,68
+---------------------------
+Iteración 49
+Procesamiento secuencial Iteración 49: 27,01 ms
+Tiempo promedio de procesamiento por imagen (ms): 28,96
+---------------------------
+Iteración 50
+Procesamiento secuencial Iteración 50: 29,37 ms
+Tiempo promedio de procesamiento por imagen (ms): 28,93
+---------------------------
