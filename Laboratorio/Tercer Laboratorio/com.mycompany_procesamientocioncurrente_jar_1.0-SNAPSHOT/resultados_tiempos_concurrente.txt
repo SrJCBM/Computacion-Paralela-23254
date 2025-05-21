@@ -1,0 +1,202 @@
+Resultados de tiempos de ejecución (Concurrente)
+=============================================
+Iteración 1
+Procesamiento concurrente (1 imagen) Iteración 1: 53,93 ms
+Tiempo promedio procesamiento por imagen (lote): 25,49 ms
+---------------------------
+Iteración 2
+Procesamiento concurrente (1 imagen) Iteración 2: 35,14 ms
+Tiempo promedio procesamiento por imagen (lote): 20,28 ms
+---------------------------
+Iteración 3
+Procesamiento concurrente (1 imagen) Iteración 3: 21,57 ms
+Tiempo promedio procesamiento por imagen (lote): 17,74 ms
+---------------------------
+Iteración 4
+Procesamiento concurrente (1 imagen) Iteración 4: 25,15 ms
+Tiempo promedio procesamiento por imagen (lote): 22,90 ms
+---------------------------
+Iteración 5
+Procesamiento concurrente (1 imagen) Iteración 5: 40,98 ms
+Tiempo promedio procesamiento por imagen (lote): 29,12 ms
+---------------------------
+Iteración 6
+Procesamiento concurrente (1 imagen) Iteración 6: 43,05 ms
+Tiempo promedio procesamiento por imagen (lote): 29,15 ms
+---------------------------
+Iteración 7
+Procesamiento concurrente (1 imagen) Iteración 7: 41,11 ms
+Tiempo promedio procesamiento por imagen (lote): 29,00 ms
+---------------------------
+Iteración 8
+Procesamiento concurrente (1 imagen) Iteración 8: 42,76 ms
+Tiempo promedio procesamiento por imagen (lote): 28,96 ms
+---------------------------
+Iteración 9
+Procesamiento concurrente (1 imagen) Iteración 9: 38,85 ms
+Tiempo promedio procesamiento por imagen (lote): 28,72 ms
+---------------------------
+Iteración 10
+Procesamiento concurrente (1 imagen) Iteración 10: 32,93 ms
+Tiempo promedio procesamiento por imagen (lote): 28,89 ms
+---------------------------
+Iteración 11
+Procesamiento concurrente (1 imagen) Iteración 11: 38,83 ms
+Tiempo promedio procesamiento por imagen (lote): 29,13 ms
+---------------------------
+Iteración 12
+Procesamiento concurrente (1 imagen) Iteración 12: 40,52 ms
+Tiempo promedio procesamiento por imagen (lote): 29,23 ms
+---------------------------
+Iteración 13
+Procesamiento concurrente (1 imagen) Iteración 13: 40,66 ms
+Tiempo promedio procesamiento por imagen (lote): 29,69 ms
+---------------------------
+Iteración 14
+Procesamiento concurrente (1 imagen) Iteración 14: 37,18 ms
+Tiempo promedio procesamiento por imagen (lote): 29,07 ms
+---------------------------
+Iteración 15
+Procesamiento concurrente (1 imagen) Iteración 15: 39,67 ms
+Tiempo promedio procesamiento por imagen (lote): 29,23 ms
+---------------------------
+Iteración 16
+Procesamiento concurrente (1 imagen) Iteración 16: 42,96 ms
+Tiempo promedio procesamiento por imagen (lote): 28,89 ms
+---------------------------
+Iteración 17
+Procesamiento concurrente (1 imagen) Iteración 17: 36,59 ms
+Tiempo promedio procesamiento por imagen (lote): 28,86 ms
+---------------------------
+Iteración 18
+Procesamiento concurrente (1 imagen) Iteración 18: 37,12 ms
+Tiempo promedio procesamiento por imagen (lote): 28,93 ms
+---------------------------
+Iteración 19
+Procesamiento concurrente (1 imagen) Iteración 19: 35,01 ms
+Tiempo promedio procesamiento por imagen (lote): 29,26 ms
+---------------------------
+Iteración 20
+Procesamiento concurrente (1 imagen) Iteración 20: 30,73 ms
+Tiempo promedio procesamiento por imagen (lote): 28,78 ms
+---------------------------
+Iteración 21
+Procesamiento concurrente (1 imagen) Iteración 21: 39,82 ms
+Tiempo promedio procesamiento por imagen (lote): 29,05 ms
+---------------------------
+Iteración 22
+Procesamiento concurrente (1 imagen) Iteración 22: 42,61 ms
+Tiempo promedio procesamiento por imagen (lote): 29,07 ms
+---------------------------
+Iteración 23
+Procesamiento concurrente (1 imagen) Iteración 23: 43,44 ms
+Tiempo promedio procesamiento por imagen (lote): 30,06 ms
+---------------------------
+Iteración 24
+Procesamiento concurrente (1 imagen) Iteración 24: 42,70 ms
+Tiempo promedio procesamiento por imagen (lote): 31,15 ms
+---------------------------
+Iteración 25
+Procesamiento concurrente (1 imagen) Iteración 25: 40,66 ms
+Tiempo promedio procesamiento por imagen (lote): 29,02 ms
+---------------------------
+Iteración 26
+Procesamiento concurrente (1 imagen) Iteración 26: 29,35 ms
+Tiempo promedio procesamiento por imagen (lote): 29,15 ms
+---------------------------
+Iteración 27
+Procesamiento concurrente (1 imagen) Iteración 27: 28,59 ms
+Tiempo promedio procesamiento por imagen (lote): 28,89 ms
+---------------------------
+Iteración 28
+Procesamiento concurrente (1 imagen) Iteración 28: 42,33 ms
+Tiempo promedio procesamiento por imagen (lote): 28,92 ms
+---------------------------
+Iteración 29
+Procesamiento concurrente (1 imagen) Iteración 29: 29,62 ms
+Tiempo promedio procesamiento por imagen (lote): 29,21 ms
+---------------------------
+Iteración 30
+Procesamiento concurrente (1 imagen) Iteración 30: 36,65 ms
+Tiempo promedio procesamiento por imagen (lote): 31,40 ms
+---------------------------
+Iteración 31
+Procesamiento concurrente (1 imagen) Iteración 31: 39,58 ms
+Tiempo promedio procesamiento por imagen (lote): 29,03 ms
+---------------------------
+Iteración 32
+Procesamiento concurrente (1 imagen) Iteración 32: 35,83 ms
+Tiempo promedio procesamiento por imagen (lote): 28,91 ms
+---------------------------
+Iteración 33
+Procesamiento concurrente (1 imagen) Iteración 33: 34,76 ms
+Tiempo promedio procesamiento por imagen (lote): 28,83 ms
+---------------------------
+Iteración 34
+Procesamiento concurrente (1 imagen) Iteración 34: 33,71 ms
+Tiempo promedio procesamiento por imagen (lote): 29,35 ms
+---------------------------
+Iteración 35
+Procesamiento concurrente (1 imagen) Iteración 35: 31,32 ms
+Tiempo promedio procesamiento por imagen (lote): 29,55 ms
+---------------------------
+Iteración 36
+Procesamiento concurrente (1 imagen) Iteración 36: 35,34 ms
+Tiempo promedio procesamiento por imagen (lote): 28,86 ms
+---------------------------
+Iteración 37
+Procesamiento concurrente (1 imagen) Iteración 37: 32,64 ms
+Tiempo promedio procesamiento por imagen (lote): 29,20 ms
+---------------------------
+Iteración 38
+Procesamiento concurrente (1 imagen) Iteración 38: 40,42 ms
+Tiempo promedio procesamiento por imagen (lote): 29,06 ms
+---------------------------
+Iteración 39
+Procesamiento concurrente (1 imagen) Iteración 39: 38,90 ms
+Tiempo promedio procesamiento por imagen (lote): 29,21 ms
+---------------------------
+Iteración 40
+Procesamiento concurrente (1 imagen) Iteración 40: 42,64 ms
+Tiempo promedio procesamiento por imagen (lote): 28,72 ms
+---------------------------
+Iteración 41
+Procesamiento concurrente (1 imagen) Iteración 41: 31,12 ms
+Tiempo promedio procesamiento por imagen (lote): 29,07 ms
+---------------------------
+Iteración 42
+Procesamiento concurrente (1 imagen) Iteración 42: 33,52 ms
+Tiempo promedio procesamiento por imagen (lote): 28,90 ms
+---------------------------
+Iteración 43
+Procesamiento concurrente (1 imagen) Iteración 43: 31,28 ms
+Tiempo promedio procesamiento por imagen (lote): 28,88 ms
+---------------------------
+Iteración 44
+Procesamiento concurrente (1 imagen) Iteración 44: 38,47 ms
+Tiempo promedio procesamiento por imagen (lote): 28,75 ms
+---------------------------
+Iteración 45
+Procesamiento concurrente (1 imagen) Iteración 45: 43,23 ms
+Tiempo promedio procesamiento por imagen (lote): 29,03 ms
+---------------------------
+Iteración 46
+Procesamiento concurrente (1 imagen) Iteración 46: 38,83 ms
+Tiempo promedio procesamiento por imagen (lote): 28,77 ms
+---------------------------
+Iteración 47
+Procesamiento concurrente (1 imagen) Iteración 47: 39,58 ms
+Tiempo promedio procesamiento por imagen (lote): 29,04 ms
+---------------------------
+Iteración 48
+Procesamiento concurrente (1 imagen) Iteración 48: 33,06 ms
+Tiempo promedio procesamiento por imagen (lote): 29,16 ms
+---------------------------
+Iteración 49
+Procesamiento concurrente (1 imagen) Iteración 49: 38,97 ms
+Tiempo promedio procesamiento por imagen (lote): 29,64 ms
+---------------------------
+Iteración 50
+Procesamiento concurrente (1 imagen) Iteración 50: 30,37 ms
+Tiempo promedio procesamiento por imagen (lote): 28,95 ms
+---------------------------
